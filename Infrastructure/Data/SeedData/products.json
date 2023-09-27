@@ -1,146 +1,146 @@
 [
   {
-    "Name": "Angular Speedster Board 2000",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Name": "GM700 μετρητης σακχαρου",
+    "Description": "Πληροί τις απαιτήσεις του ΝΕΟΥ ISO 15197:2013 με 100% επιτυχία αποτελεσμάτων",
     "Price": 200,
     "PictureUrl": "images/products/sb-ang1.png",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
   {
-    "Name": "Green Angular Board 3000",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Name": "Multicare μετρητης σακχαρου",
+    "Description": "Έχει σχεδιαστεί για να εκτελεί διαφορετικές μετρήσεις από το ακροδάκτυλο απλά αλλάζοντας ταινία",
     "Price": 150,
     "PictureUrl": "images/products/sb-a.png",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
   {
-    "Name": "Core Board Speed Rush 3",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Name": "Accutrend Plus μετρητής σακχάρου",
+    "Description": "Η συσκεύη Accutrend Plus προσφέρει αξιόπιστα αποτελέσματα για ζάχαρο,χοληστερίνη,τριγλυκερίδια και γαλακτικό οξύ απο το ολικό αίμα .Για κάθε μια απο την κάθε παράμετρο του Accutrend Plus χρησιμοποιεί διαφορετικές ταινίες ειδικά σχεδιασμένες",
     "Price": 180,
     "PictureUrl": "images/products/sb-core1.png",
     "ProductTypeId": 1,
     "ProductBrandId": 2
   },
   {
-    "Name": "Net Core Super Board",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Name": "Αναπηρικό αμαξίδιο 0808383i",
+    "Description": "Αναπηρικό αμαξίδο σε χρώμα μαύρο με υποπόδια αποσπώμενα σταθερού ύψους και πίσω ρόδες συμπαγείς",
     "Price": 300,
     "PictureUrl": "images/products/sb-core2.png",
     "ProductTypeId": 1,
     "ProductBrandId": 2
   },
   {
-    "Name": "React Board Super Whizzy Fast",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 250,
+    "Name": "FOM HZ-3705 Κρεβάτι",
+    "Description": "Λειτουργική έδρα μικροεπεμβάσεων 3 τμημάτων πολύ σταθερή",
+    "Price": 2500,
     "PictureUrl": "images/products/sb-react1.png",
-    "ProductTypeId": 1,
+    "ProductTypeId": 2,
     "ProductBrandId": 4
   },
   {
-    "Name": "Typescript Entry Board",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Name": "Εξεταστικό Κρεβάτι Ηλεκτρικό Acrum ",
+    "Description": "Εξεταστικό κρεβάτι ηλεκτρικό Acrum – 2234A με 3 μοτέρ που ελέγχουν τα 3 τμήματα. Διαθέτει μοντέρνο σχεδιασμό και οι κινητήρες ελέγχουν ελέγχουν το ύψος, την πλάτη και την κλίση του κεντρικού τμήματος.",
     "Price": 120,
     "PictureUrl": "images/products/sb-ts1.png",
-    "ProductTypeId": 1,
+    "ProductTypeId": 2,
     "ProductBrandId": 5
   },
   {
-    "Name": "Core Blue Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 10,
+    "Name": "Κρεβάτι ΑLEXA light cream",
+    "Description": "Ένα άνετο κρεβάτι μασάζ, με ρύθμιση ύψους, τρύπα προσώπου και πρακτικό ράφι για αξεσουάρ και καλλυντικά. Η κατασκευή από μασίφ φυσικό ξύλο, οι στρογγυλεμένες γωνίες του κρεβατιού και η δυνατότητα προσαρμογής της πλάτης καθιστούν την Alexa ένα ευέλικτο και πολύ λειτουργικό κρεβάτι με εξαιρετική αισθητική",
+    "Price": 2600,
     "PictureUrl": "images/products/hat-core1.png",
     "ProductTypeId": 2,
     "ProductBrandId": 2
   },
   {
-    "Name": "Green React Woolen Hat",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 8,
+    "Name": "Παιδιατρικό εξεταστικό κρεβάτι RHINO",
+    "Description": "Το τραπέζι περιλαμβάνει πλάτη και κάθισμα Η πλάτη με τηλεσκοπικό μηχανισμό μπορεί να ρυθμιστεί εύκολα",
+    "Price":3000,
     "PictureUrl": "images/products/hat-react1.png",
     "ProductTypeId": 2,
     "ProductBrandId": 4
   },
   {
-    "Name": "Purple React Woolen Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 15,
+    "Name": "Φορείο ασθενών νοσοκομειακό CLASSIC AD-227/H",
+    "Description": "Το φορείο διαθέτει μεγάλους τροχούς διαμέτρου έως 20cm (200mm) και κεντρικό σύστημα φρένων και στους τέσσερις τροχούς. Τα φρένα ενεργοποιούνται από ποδομοχλό και στις δύο πλευρές του φορείου, επίσης διαθέτει 5ο τροχό κατεύθυνσης",
+    "Price": 1700,
     "PictureUrl": "images/products/hat-react2.png",
     "ProductTypeId": 2,
     "ProductBrandId": 4
   },
   {
-    "Name": "Blue Code Gloves",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 18,
+    "Name": "Shockwave Pneumatic SW10",
+    "Description": "Η νέα θεραπευτική συσκευή πνευματικών βαλλιστικών κρουστικών κυμάτων είναι παλμικά ηχητικά κύματα που παράγονται από συμπιεστή σε ακριβή βαλλιστική, σε συγκρίση με το ηλεκτρομαγνητικό κύμα κρούσης δίνει πολύ περισσότερη ενέργεια",
+    "Price": 4.800,
     "PictureUrl": "images/products/glove-code1.png",
-    "ProductTypeId": 4,
+    "ProductTypeId": 3,
     "ProductBrandId": 3
   },
   {
-    "Name": "Green Code Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Name": "Αναπηρικό αμαξίδιο AC – 52 ",
+    "Description": "Αναπηρικό αμαξίδιο αλουμινίου πτυσσόμενο ελαφρού τύπου AC – 52",
     "Price": 15,
     "PictureUrl": "images/products/glove-code2.png",
     "ProductTypeId": 4,
     "ProductBrandId": 3
   },
   {
-    "Name": "Purple React Gloves",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Name": "Καρέκλα αιμοδιάλυσης - αιμοδοσίας ηλεκτρική «Micra» ",
+    "Description": "Ηηλεκτρική καρέκλα  έχει πολλαπλές εφαρμογές, αφού μπορεί να προσαρμοστεί ξεχωριστά σε κάθε κατάσταση και ασθενή",
     "Price": 16,
     "PictureUrl": "images/products/glove-react1.png",
-    "ProductTypeId": 4,
+    "ProductTypeId": 2,
     "ProductBrandId": 4
   },
   {
-    "Name": "Green React Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Name": "Κρεβάτι φυσικοθεραπείας ηλεκτρικό",
+    "Description": "Το κρεβάτι αυτό είναι ιδιαίτερα ανθεκτικό και αντέχει σε συνεχή βαριά χρήση, με ελάχιστη συντήρηση",
     "Price": 14,
     "PictureUrl": "images/products/glove-react2.png",
-    "ProductTypeId": 4,
+    "ProductTypeId": 2,
     "ProductBrandId": 4
   },
   {
-    "Name": "Redis Red Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 250,
+    "Name":"Φορητός υπέρηχος ECO 1 plus με μία κεφαλή",
+    "Description": "Αποτελεί ολοκληρωμένο σύστημα Υπερηχοτομογραφίας με δυνατότητα απεικονίσεων 2D, 2D με αρμονική, M-Mode, παλμικού  Doppler καθώς και έγχρωμου Doppler, Power Doppler, HPRF."    ,
+    "Price": 2500,
     "PictureUrl": "images/products/boot-redis1.png",
     "ProductTypeId": 3,
     "ProductBrandId": 6
   },
   {
-    "Name": "Core Red Boots",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 189.99,
+    "Name": "Φορητός Υπέρηχος Chison Q5",
+    "Description": "Οι πλέον σύγχρονες τεχνολογίες οι οποίες χρησιμοποιούνται στα μεγάλα συστήματα υπερηχοτομογράφων, όπως δεύτερη αρμονική συχνότητα των ιστών, πολλαπλές συχνότητες στις κεφάλες, color  Doppler, φασματικό συνεχές και παλμικό, αρχειοθέτηση και αποστολή εξετάσεων περιλαμβάνονται στο σύστημα CHISON Q5.",
+    "Price": 4000,
     "PictureUrl": "images/products/boot-core2.png",
     "ProductTypeId": 3,
     "ProductBrandId": 2
   },
   {
-    "Name": "Core Purple Boots",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 199.99,
+    "Name": "Κρεβάτι εξεταστικό ηλεκτροκίνητο με 2 μοτέρ AD-335",
+    "Description": "Δυο ηλεκτρικούς κινητήρες  μοτέρ για την ρύθμιση του ύψους και της κισης πλάτης.",
+    "Price": 1999,
     "PictureUrl": "images/products/boot-core1.png",
-    "ProductTypeId": 3,
+    "ProductTypeId": 2,
     "ProductBrandId": 2
   },
   {
-    "Name": "Angular Purple Boots",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 150,
-    "PictureUrl": "images/products/boot-ang2.png",
-    "ProductTypeId": 3,
+    "Name": "Έδρα ΩΡΛ Namrol MEGA",
+    "Description": "Μια πολυτελής επιλογή ειδικά σχεδιασμένη για ιατρούς ΩΡΛ",
+    "Price": 3500,
+    "PictureUrl": "images/products/boot-ang02.png",
+    "ProductTypeId": 2,
     "ProductBrandId": 1
   },
   {
-    "Name": "Angular Blue Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
+    "Name": "Φορητός υπέρηχος CHISON ECO 3 expert",
+    "Description": "Νέος φορητός ασπρόμαυρος υπερηχογράφος Chison Eco 3 Expert. Αποτελεί την αναβάθμιση του υπερήχου Chison Eco 3 καθώς συμπεριλαμβάνει doppler. Επίσης περιλαμβάνει όλα εκείνα τα ειδικά φίλτρα/αλγόριθμους (Multiple Beam, SRA, THI, I-image, Compound) που αυξάνουν δραματικά την ποιότητα εικόνας του, αντίστοιχη με μεγάλα έγχρωμα μηχανήματα. Συμπεριλαμβάνει ενσωματωμένη μπαταρία έως 2 ώρες αυτονομία.",
+    "Price": 6400,
     "PictureUrl": "images/products/boot-ang1.png",
-    "ProductTypeId": 3,
+    "ProductTypeId": 2,
     "ProductBrandId": 1
   }
 ]
